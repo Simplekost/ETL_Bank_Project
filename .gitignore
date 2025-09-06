@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+Largest_banks_data.csv
+Banks.db
+table_html.txt
+code_log.txt
+.vscode/
+.idea/
